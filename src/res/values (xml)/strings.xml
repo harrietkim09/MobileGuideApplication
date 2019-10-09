@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CSC8099 Dissertation Project</string>
+    <string name="title_string">Title</string>
+    <string name="address_string">Address</string>
+    <string name="website_string">https://example.com/</string>
+    <string name="information_string">Information</string>
+    <string name="position_string">{38, 38}</string>
+    <string name="text_view_string">TextView</string>
+    <string name="false_text">FALSE</string>
+</resources>

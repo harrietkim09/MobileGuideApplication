@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Kirkby Stephen Rail Station",
+    "information": "Leasing by the Settle and Carlisle Railway Trust who have restored and refurbished it. The station building is a wonderful example of Midland Railway architecture.",
+    "address": "Kirkby Stephen CA17 4LF",
+    "website": "https://www.settle-carlisle.co.uk/tickets-times-travel/your-journey/stations/kirkby-stephen/",
+    "latLng": {
+      "lat": 54.455429,
+      "lng": -2.369407
+    },
+    "image": "kirkby_stephen_station"
+  },
+  {
+    "title": "Stainmore Railway Company",
+    "information": "A Heritage Centre and an operational railway representing the early 1950’s which welcomes visitors at weekends.",
+    "address": "South Rd, Kirkby Stephen CA17 4LA",
+    "website": "http://www.kirkbystepheneast.co.uk",
+    "latLng": {
+      "lat": 54.462525,
+      "lng": -2.357424
+    },
+    "image": "stainmore_railway_company"
+  },
+  {
+    "title": "St Stephen's Church",
+    "information": "Referred to as \"the Cathedral of the Dales\", stands to the north of the Market Place in the centre of the town in the beautiful Eden Valley.",
+    "address": "The Vicarage, Vicarage Lane, Kirkby Stephen CA17 4QX",
+    "website": "https://www.achurchnearyou.com/church/12210/",
+    "latLng": {
+      "lat": 54.474246,
+      "lng": -2.348403
+    },
+    "image": "st_stephen_church"
+  },
+  {
+    "title": "Brough Castle",
+    "information": "Brough Castle stands on a ridge commanding the strategic Stainmore Pass, on the site of a Roman fort.",
+    "address": "Rosemount, A685, Church Brough, Kirkby Stephen CA17 4EJ",
+    "website": "https://www.english-heritage.org.uk/visit/places/brough-castle/",
+    "latLng": {
+      "lat": 54.521892,
+      "lng": -2.323370
+    },
+    "image": "brough_castle"
+  },
+  {
+    "title": "Selset Reservoir",
+    "information": "Selset reservoir is surrounded by the fantastic scenery of the North Pennines grouse moors.It is one of the very best wild brown trout fisheries in the country.",
+    "address": "Near Langdon Beck, Baldersdale, County Durham, DL12 9UP",
+    "website": "https://explorenorthpennines.org.uk/enp073",
+    "latLng": {
+      "lat": 54.587518,
+      "lng": -2.148954
+    },
+    "image": "selset_reservoir"
+  },
+  {
+    "title": "Grassholme Reservoir",
+    "information": "It has a four mile circular footpath around the shoreline of Grassholme Reservoir, providing magnificent views across the water. Grassholme Reservoir is is part designated as Local Wildlife Site.",
+    "address": "Grassholme Reservoir Nr, Grassholme, Barnard Castle DL12 0PW",
+    "website": "https://www.thisisdurham.com/things-to-do/grassholme-reservoir-circular-walk-p669831",
+    "latLng": {
+      "lat": 54.601209,
+      "lng": -2.085176
+    },
+    "image": "grassholme_reservoir"
+  },
+  {
+    "title": "Middleton-in-Teesdale Village",
+    "information": "Middleton-in-Teesdale is a small market town in County Durham, in England. The settlement is surrounded by the North Pennines Area of Outstanding Natural Beauty.",
+    "address": "10 Market Pl, Middleton-in-Teesdale, Barnard Castle DL12 0QG",
+    "website": "https://en.wikipedia.org/wiki/Middleton-in-Teesdale",
+    "latLng": {
+      "lat": 54.624815,
+      "lng": -2.083363
+    },
+    "image": "middleton_teesdale"
+  },
+  {
+    "title": "Eggleston Hall Gardens",
+    "information": "Four acres of gardens and nursery. 16th century churchyard with ruined chapel and rare plants, moorland stream, winding paths, and many interesting plants for sale.",
+    "address": "Eggleston Ln, Barnard Castle DL12 0AG",
+    "website": "http://www.egglestonhallgardens.co.uk/",
+    "latLng": {
+      "lat": 54.606516,
+      "lng": -2.005152
+    },
+    "image": "eggleston_hall_gardens"
+  },
+  {
+    "title": "Barnard Castle",
+    "information": "Barnard Castle in Teesdale is a historic market town which takes its name from the castle around which it grew. The castle, an English Heritage property, was named after its 12th Century founder, Bernard de Balliol, and was later developed by Richard III whose boar emblem is carved above a window in the inner ward.",
+    "address": "Flatts Rd, Scar Top, Barnard Castle DL12 8PR",
+    "website": "https://www.english-heritage.org.uk/",
+    "latLng": {
+      "lat": 54.543470,
+      "lng": -1.926113
+    },
+    "image": "barnard_castle"
+  },
+  {
+    "title": "The Bowes Museum",
+    "information": "\"The North's Museum of Art, Fashion & Design.\nHousing outstanding collections of European fine and decorative art.\"",
+    "address": "Newgate, Barnard Castle DL12 8NP",
+    "website": "https://www.thebowesmuseum.org.uk/",
+    "latLng": {
+      "lat": 54.542136,
+      "lng": -1.914936
+    },
+    "image": "bowes_museum"
+  },
+  {
+    "title": "Barnard Castle 16th-Century Bridge",
+    "information": "Bridge over the River Tees at Barnard Castle, County Durham.",
+    "address": "A67, Bridgegate, Barnard Castle DL12 8QF",
+    "website": "https://historicengland.org.uk/listing/the-list/list-entry/1121647",
+    "latLng": {
+      "lat": 54.542772,
+      "lng": -1.927312
+    },
+    "image": "barnard_castle_16th_century_bridge"
+  },
+  {
+    "title": "The Buttermarket",
+    "information": "The Market Cross or Butter Market at Barnard Castle was built in 1747 at the expense of Thomas Breaks. During its history the octagonal building has served as farmers' dairy market, Town Hall, court room, lock-up and fire station.",
+    "address": "Barnard Castle Market Cross, Barnard Castle DL12",
+    "website": "http://www.barnardcastlelife.co.uk/marketcross.html",
+    "latLng": {
+      "lat": 54.542215,
+      "lng":  -1.923725
+    },
+    "image": "the_buttermarket"
+  },
+  {
+    "title": "The Witham",
+    "information": "The Witham has been at the heart of Barnard Castle and Teesdale's cultural and community life for more than 150 years. Offering all sorts of events: theatre, music, art, dance, film, comedy and classes in refurbished venue.",
+    "address": "3 Horse Market, Barnard Castle DL12 8LY",
+    "website": "https://thewitham.org.uk/",
+    "latLng": {
+      "lat": 54.543640,
+      "lng": -1.923505
+    },
+    "image": "the_witham"
+  }
+]
